@@ -1,0 +1,13 @@
+.pictures{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+
+}
+
+
+.links{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
